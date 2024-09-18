@@ -1,2 +1,2 @@
 # StoneDetect
-New repo
+Kidney Stone Detection using Unsupervised Learning
